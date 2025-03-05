@@ -2,7 +2,7 @@
 
 // Learnings -->
 
---> The String class is immutable in java so we use the StringBuilder class in this problem
+--> The String class is immutable in java, so we use the StringBuilder class in this problem
 
 1) StringBuilder is a class which provides many methods on strings which String class do not provide
 
